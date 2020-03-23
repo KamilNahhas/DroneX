@@ -13,3 +13,6 @@ git add -A
 
 Commit los cambios:
 git commit -m "nombre del commit"
+
+Push al master:
+git push
