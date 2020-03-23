@@ -1,0 +1,15 @@
+Hola Mundo
+
+Para usar git primero tengo que clonar el repositorio:
+git clone https://github.com/KamilNahhas/DroneX.git
+
+El clone solo se hace cuando iniciamos a trabajar en una nueva carpeta
+
+Para conocer el estado del repositorio:
+git status
+
+Subir todos los cambios:
+git add -A
+
+Commit los cambios:
+git commit -m "nombre del commit"
