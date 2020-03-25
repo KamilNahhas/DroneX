@@ -16,3 +16,9 @@ git commit -m "nombre del commit"
 
 Push al master:
 git push
+
+Para ver el listado de ramas:
+git branch
+
+Para crear una nueva rama a partir de la rama en la que estamos:
+git checkout -b nombre_nueva_rama
